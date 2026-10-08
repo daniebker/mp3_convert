@@ -3,8 +3,8 @@ Python Script to convert wav and flac files to mp3. Skips failed files and logs 
 
 ## Run
 
-`python3 convert_mp3.py /path/to/input /path/to/output`
+`python3 mp3convert.py /path/to/input /path/to/output`
 
 Provide a bitrate using the `--bitrate` argument:
 
-`python3 convert_mp3.py /path/to/input /path/to/output --bitrate=192kbps`
+`python3 mp3convert.py /path/to/input /path/to/output --bitrate=192kbps`
